@@ -15,3 +15,4 @@ rgb_xyz = (r) ->
 
 xyz_lab = (x) ->
     if x > 0.008856 then Math.pow(x, 1 / 3) else 7.787037 * x + 4 / 29
+

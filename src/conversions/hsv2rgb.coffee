@@ -25,3 +25,4 @@ hsv2rgb = () ->
     g = Math.round g
     b = Math.round b
     [r, g, b]
+

@@ -28,3 +28,5 @@ hex2rgb = (hex) ->
         return rgb
 
     throw "unknown color: "+hex
+
+

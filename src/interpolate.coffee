@@ -1,5 +1,3 @@
-
-
 ###
 interpolates between a set of colors uzing a bezier spline
 ###
@@ -34,3 +32,4 @@ bezier = (colors) ->
     I
 
 chroma.interpolate.bezier = bezier
+

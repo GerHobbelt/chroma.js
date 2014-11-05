@@ -71,3 +71,5 @@ vows
             'numoutput': -> (topic) -> assert.equal topic.num(), 0xff0000
 
     .export(module)
+
+

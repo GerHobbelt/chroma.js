@@ -46,3 +46,5 @@ vows
                 assert.equal Math.round(topic(50).lab()[0]), 50
 
     .export(module)
+
+

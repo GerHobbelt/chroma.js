@@ -16,3 +16,4 @@ rgb2hsv = () ->
         h *= 60;
         if h < 0 then h += 360
     [h, s, v]
+

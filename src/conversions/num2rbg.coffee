@@ -7,3 +7,5 @@ num2rgb = (num) ->
         return [r,g,b,1]
 
     throw "unknown num color: "+num
+
+

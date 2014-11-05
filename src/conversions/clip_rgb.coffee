@@ -8,3 +8,5 @@ clip_rgb = (rgb) ->
             rgb[i] = 0 if rgb[i] < 0
             rgb[i] = 1 if rgb[i] > 1
     rgb
+
+

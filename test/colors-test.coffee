@@ -132,3 +132,5 @@ vows
             'dont round alpha value': (topic) -> assert.equal topic, 'rgba(170,222,183,0.675)'
 
     .export(module)
+
+

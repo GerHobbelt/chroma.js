@@ -28,3 +28,4 @@ hsi2rgb = (h,s,i) ->
     g = limit i*g*3
     b = limit i*b*3
     [r*255,g*255,b*255]
+

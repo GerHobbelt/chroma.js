@@ -8,3 +8,4 @@ lch2lab = () ->
     h = h * Math.PI / 180
     [l, Math.cos(h) * c, Math.sin(h) * c]
 
+

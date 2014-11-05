@@ -23,3 +23,4 @@ lab_xyz = (x) ->
 
 xyz_rgb = (r) ->
     Math.round(255 * (if r <= 0.00304 then 12.92 * r else 1.055 * Math.pow(r, 1 / 2.4) - 0.055))
+

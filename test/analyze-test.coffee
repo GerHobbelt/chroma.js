@@ -40,3 +40,5 @@ vows
             'domain is [1,5]': (topic) -> assert.deepEqual topic.domain, [1,5]
 
     .export(module)
+
+

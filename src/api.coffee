@@ -73,3 +73,4 @@ chroma.luminance = (color) ->
 # exposing raw classes for testing purposes
 
 chroma._Color = Color
+
