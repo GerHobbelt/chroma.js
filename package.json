@@ -32,7 +32,7 @@
     "coffee-script": "1.8",
     "es6-shim": "^0.20.2",
     "uglify-js": "2.4",
-    "vows": "0.8.0"
+    "vows": "0.7.0"
   },
   "spm": {
     "main": "chroma.js",
