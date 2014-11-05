@@ -2,6 +2,9 @@
 
 Chroma.js is a small JavaScript library (32kB) for all kinds of color conversions and color scales.
 
+(http://old.driven-by-data.net/about/chromajs/#/0)
+
+
 ### Usage
 
 
@@ -79,3 +82,4 @@ Versions prior to 0.4 were released under [GPL](http://www.gnu.org/licenses/gpl-
 
 * [How To Avoid Equidistant HSV Colors](https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)
 * [Mastering Multi-hued Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-color-scales/)
+* [Introduction to Colour Spaces](http://www.colourphil.co.uk/lab_lch_colour_space.shtml)
