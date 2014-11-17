@@ -1,5 +1,5 @@
 ###
-interpolates between a set of colors uzing a bezier spline
+interpolates between a set of colors using a bezier spline
 ###
 bezier = (colors) ->
     colors = (chroma(c) for c in colors)
